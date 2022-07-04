@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Hainan University" src="https://github.com/Hainanu-Application/.github/tree/main/profile/img/Hainan-University-Logo.jpg" height="100">
+    <img alt="Hainan University" src="img/Hainan-University-Logo.jpg" height="100">
 </p>
 
 <h2 align="center"> 𝗛𝗲𝗹𝗹𝗼, 𝗜𝘁'𝘀 <a href="https://peng-yq.github.io">𝗛𝗮𝗶𝗻𝗮𝗻𝘂-𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻</a>！ 👨‍💻 </h2>
