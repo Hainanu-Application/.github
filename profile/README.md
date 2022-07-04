@@ -7,7 +7,7 @@
 <p align="center">
   <samp>
     <a href="https://github.com/Hainanu-Application">𝗚𝗶𝘁𝗵𝘂𝗯</a> ∙ 
-    <a href="https://peng-yq.github.io">𝗛𝗼𝗺𝗲𝗽𝗮𝗴𝗲</a> ∙
+    <a href="https://hainanu-application.github.io">𝗛𝗼𝗺𝗲𝗽𝗮𝗴𝗲</a> ∙
     <a href="https://hainanu-application.github.io/Hainanu-Alumni-Map">𝗔𝗹𝘂𝗺𝗻𝗶 𝗠𝗮𝗽 </a> 
   </samp>
 </p>
