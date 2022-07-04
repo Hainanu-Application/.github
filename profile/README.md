@@ -1,9 +1,5 @@
 <p align="center">
-<<<<<<< HEAD
     <img alt="Hainan University" src="https://cdn.jsdelivr.net/gh/peng-yq/Gallery/img/202207041451717.jpg" height="100">
-=======
-    <img alt="Hainan University" src="img/Hainan-University-Logo.jpg" height="100">
->>>>>>> aea84ed1b04d16cf97c68612166a40457899633d
 </p>
 
 <h2 align="center"> 𝗛𝗲𝗹𝗹𝗼, 𝗜𝘁'𝘀 <a href="https://peng-yq.github.io">𝗛𝗮𝗶𝗻𝗮𝗻𝘂-𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻</a>！ 👨‍💻 </h2>
