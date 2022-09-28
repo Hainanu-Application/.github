@@ -2,7 +2,7 @@
     <img alt="Hainan University" src="https://cdn.jsdelivr.net/gh/peng-yq/Gallery/img/202207041451717.jpg" height="100">
 </p>
 
-<h2 align="center"> 𝗛𝗲𝗹𝗹𝗼, 𝗜𝘁'𝘀 <a href="https://peng-yq.github.io">𝗛𝗮𝗶𝗻𝗮𝗻𝘂-𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻</a>！ 👨‍💻 </h2>
+<h2 align="center"> 𝗛𝗲𝗹𝗹𝗼, 𝗜𝘁'𝘀 <a href="https://hainanu-application.github.io">𝗛𝗮𝗶𝗻𝗮𝗻𝘂-𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻</a>！ 👨‍💻 </h2>
 
 <p align="center">
   <samp>
@@ -24,5 +24,5 @@
 ### 𝗝𝗼𝗶𝗻 𝘂𝘀 | 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝘄𝗶𝘁𝗵 𝘂𝘀
 
 - [**eilo.pengyq@foxmail.com**](mailto:eilo.pengyq@foxmail.com)
-- **[bj.yan.pa@qq.com](mailto:bj.yan.pa@qq.com)**
-- [**solar1s@163.com**](mailto:solar1s@163.com)。
+- [**bj.yan.pa@qq.com**](mailto:bj.yan.pa@qq.com)
+- [**solar1s@163.com**](mailto:solar1s@163.com)
